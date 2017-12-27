@@ -27,3 +27,4 @@ Also the footer image can be changed as well. Resolution is 1800x50.
 
 <b>Customizing Build Date / Version:</b> Version at bottom left can be changed as you do (4) Stages.
 
+<b>Customizing Helpdesk Number:</b> Same as Customizing (4) Stages.
