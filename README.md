@@ -1,4 +1,4 @@
-# newton - The Mac Enrolment App
+# newton - The Mac Enrolment App v2.0
 Mac Enrolment App for Medium and Large Organizations
 
 This is 2nd release. Feel free to download and modify as needed.
