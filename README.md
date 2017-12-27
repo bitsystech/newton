@@ -35,5 +35,5 @@ Also the footer image can be changed as well. Resolution is 1800x50.
 
 This document is first draft. Probably it needs modification and changes, however the app is working great. Please use and suggest enhancement, fixes and bugs. We would love to reach a 'Stable State' that can help the entire Mac community. 
 
-                                                                                      ❤️ Tweet me @LaeeqHumam
+                                                                                   ❤️ Tweet me @LaeeqHumam
 
