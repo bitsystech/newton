@@ -23,6 +23,14 @@ I would still recommend to do a comprehensive logging in the script itself.
 <b>Running the App:</b> You need to be admin in order to run the Newton. As the first account on Mac is Admin by default, you don't need to worry if you are enrolling a new Mac.
 
 <b>Script Names:</b> Look inside ViewController.m file. You have options to change everything as you want it to be. If it looks complex, you can stick with same names and change your script to this name.
+EnrollmentScript.sh <i>(This is first script)</i>
+step2.sh
+step3.sh
+step4.sh
+step5.sh
+step6.sh
+step7.sh
+step8.sh
 
 <b>Customizing the Header:</b> If you want your company logo, replace the header file inside Supporting Files folder. Resolution: 2400x401
 Also the footer image can be changed as well. Resolution is 1800x50.
