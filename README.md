@@ -12,10 +12,10 @@ This is 2nd release. Feel free to download and modify as needed.
 
 <b>3. Start Button:</b> This will begin the process.
 
-<b>4. Stages:</b> This can be renamed in Xcode as you wish. You can create script for every stage and keep in /usr/local/NewtonEYM/ folder. Every step will execute the script and once completed successfully, it will show a green checkbox and move to next step.
+<b>4. Stages:</b> This can be renamed in Xcode as you wish. You can create script for every stage and keep in /usr/local/EYM/ folder. Every step will execute the script and once completed successfully, it will show a green checkbox and move to next step.
 <i>Changing the step display names:</i> Open the app in XCode. Go to Main.storyboard & change the names by double clicking, in GUI.
 
-<b>5. Logs:</b> Logs can be seen from the Log menu in App. I know this is very amateur way of logging, but I did not have enough time to waste in that. Please use advance Logging methods rather than relying on this echo output thing. This will by default creat a log.txt file at this location: /usr/local/NewtonEYM/
+<b>5. Logs:</b> Logs can be seen from the Log menu in App. I know this is very amateur way of logging, but I did not have enough time to waste in that. Please use advance Logging methods rather than relying on this echo output thing. This will by default creat a log.txt file at this location: /usr/local/EYM/
 I would still recommend to do a comprehensive logging in the script itself.
 
 <b>Running the App:</b> You need to be admin in order to run the Newton. As the first account on Mac is Admin by default, you don't need to worry if you are enrolling a new Mac.
