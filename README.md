@@ -1,5 +1,5 @@
 # newton - The Mac Enrolment App v2.0
-Mac Enrolment App for Medium and Large Organizations
+💻 Mac Enrolment App for Medium and Large Organizations 🖥
 
 This is 2nd release. Feel free to download and modify as needed.
 <img src="http://img.techpowerup.org/171227/screen-shot-2017-12-27-at-19-54-46.png" width="888" height="629">
@@ -30,3 +30,10 @@ Also the footer image can be changed as well. Resolution is 1800x50.
 <b>Customizing Build Date / Version:</b> Version at bottom left can be changed as you do (4) Stages.
 
 <b>Customizing Helpdesk Number:</b> Same as Customizing (4) Stages.
+
+--------------------------------------------------------------------------------------------
+
+This document is first draft. Probably it needs modification and changes, however the app is working great. Please use and suggest enhancement, fixes and bugs. We would love to reach a 'Stable State' that can help the entire Mac community. 
+
+                                                                                                  ❤️ Tweet me @LaeeqHumam
+
