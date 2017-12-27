@@ -7,7 +7,7 @@ This is 2nd release. Feel free to download and modify as needed.
 
 <b>Main Sections in GUI:</b>
   
-<b>1. Select Location:</b> If you manage mulitple locations / offices. Keep your AD profile or AD Binding script here that will bind Mac to specific OU. If you don't have multiple locations, you can list the OU codes here. The location is parsed as input in the script.
+<b>1. Select Location:</b> If you manage multiple locations / offices. Keep your AD profile or AD Binding script here that will bind Mac to specific OU. If you don't have multiple locations, you can list the OU codes here. The location is parsed as input in the script.
 
 <b>2. Enter Mac Name:</b> As the name suggests, it does not need clarification. This part of the script is automated, nothing that you would want to modify. It just renames the Mac.
 * There is a great idea though, which I would work on late 2018/ early 2019. You can create a central server with Machine name list in different SQL tables. Based on the location / OU you have selected in step 1, this will fetch the machine name in specific format for that location. In other words, assigning names to Macs can be fully automated. :)
