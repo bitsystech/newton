@@ -2,7 +2,7 @@
 💻 Mac Enrolment App for Medium and Large Organizations 🖥
 
 This is 2nd release. Feel free to download and modify as needed.
-<img src="[https://ibb.co/tCxS9fV]" width="888" height="629">
+<img src="[https://ibb.co/tCxS9fV]">
 
 
 <b>Main Sections in GUI:</b>
