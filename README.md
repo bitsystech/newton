@@ -2,7 +2,7 @@
 💻 Mac Enrolment App for Medium and Large Organizations 🖥
 
 This is 2nd release. Feel free to download and modify as needed.
-<img src="[https://ibb.co/tCxS9fV]">
+<img src="[https://github.com/bitsystech/newton/blob/master/Screenshot%20EYM.png?raw=true]">
 
 
 <b>Main Sections in GUI:</b>
